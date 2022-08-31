@@ -30,4 +30,4 @@ Console.WriteLine ($"Hejsan svejsan {name}, du har blivit inbjuden till att spel
 Console.ReadLine ();
 
 
-Console.WriteLine ("Hello")
+Console.WriteLine ("Hello");
